@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  --available: #c3cfd9;
+  --available-border: #808f9d;
+  --unavailable: #fbe192;
+  --unavailable-border: #f7c52b;
+  --selected: #8dd7cf;
+  --selected-border: #45bdb0;
+  --orange: #e8833a;
+  --black: #293845;
+  color: var(--black);
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  line-height: 110px;
+}
+
+button {
+  background-color: var(--orange);
+  color: #ffffff;
+  border-radius: 3px;
+  font-size: 18px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
