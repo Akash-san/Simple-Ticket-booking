@@ -30,32 +30,32 @@ Open your web browser and navigate to `http://localhost:3000` to view the applic
 - **Homepage:** View movie listings and session details.
 - **Booking:** Book seats for movie sessions.
 
-## Folder Structure
+# Folder Structure
 
-`movie-booking-app/
+movie-booking-app/
 ├── src/
-│ ├── components/
-│ │ ├── Auth/
-│ │ │ ├── Login.js
-│ │ │ └── Signup.js
-│ │ ├── Header/
-│ │ │ └── header.js
-│ │ ├── Homepage/
-│ │ │ └── homepage.js
-│ │ ├── BookSeats/
-│ │ │ └── bookSeats.js
-│ │ └── Sessions/
-│ │ └── sessions.js
-│ ├── assets/
-│ │ └── css/
-│ │ ├── reset.css
-│ │ ├── style.css
-│ │ └── authForm.css
-│ └── App.js
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.js
+│   │   │   └── Signup.js
+│   │   ├── Header/
+│   │   │   └── header.js
+│   │   ├── Homepage/
+│   │   │   └── homepage.js
+│   │   ├── BookSeats/
+│   │   │   └── bookSeats.js
+│   │   └── Sessions/
+│   │       └── sessions.js
+│   ├── assets/
+│   │   └── css/
+│   │       ├── reset.css
+│   │       ├── style.css
+│   │       └── authForm.css
+│   └── App.js
 ├── public/
-│ └── index.html
+│   └── index.html
 ├── package.json
-└── README.md`
+└── README.md
 
 ## Contributing
 
