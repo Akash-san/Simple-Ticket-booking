@@ -32,7 +32,7 @@ Open your web browser and navigate to `http://localhost:3000` to view the applic
 
 ## Folder Structure
 
-movie-booking-app/
+`movie-booking-app/
 ├── src/
 │ ├── components/
 │ │ ├── Auth/
@@ -55,7 +55,7 @@ movie-booking-app/
 ├── public/
 │ └── index.html
 ├── package.json
-└── README.md
+└── README.md`
 
 ## Contributing
 
